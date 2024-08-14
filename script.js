@@ -95,7 +95,7 @@ function startGame() {
         moveSnake();
         drawSnake();
         updateTime();
-    }, 140);
+    }, 90);
 }
 
 window.addEventListener('keydown', e => {
